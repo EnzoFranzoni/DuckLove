@@ -1,0 +1,1 @@
+<?php echo 'Duck Love oooh yeah !!!';
